@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Python",
+    "description": "Python — bu oson o‘rganiladigan, kuchli va universal dasturlash tili. Data science, web development, avtomatlashtirish va AI loyihalarida keng qo‘llaniladi.",
+    "image": "/image/dast1.jpg",
+    "video": "/videos/Python.mkv"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "description": "JavaScript — bu web-saytlar va ilovalarni interaktiv qilish uchun eng asosiy dasturlash tili. Frontend va backend rivojlanishda keng ishlatiladi.",
+    "image": "/image/dast1.jpg",
+    "video": "/videos/JavaScript.mp4"
+  },
+  {
+    "id": 3,
+    "title": "Java",
+    "description": "Java — korporativ ilovalar, Android dasturlar va backend tizimlar uchun keng qo‘llaniladigan mustahkam, obyektga yo‘naltirilgan dasturlash tili.",
+    "image": "/image/dast1.jpg",
+    "video": "/videos/Java.mkv"
+  },
+  {
+    "id": 4,
+    "title": "C++",
+    "description": "C++ — yuqori samaradorlik talab qilinadigan tizimlar, o‘yinlar va grafik dasturlar uchun mo‘ljallangan kuchli til.",
+    "image": "/image/dast1.jpg",
+    "video": "/videos/C++.mkv"
+  },
+  {
+    "id": 5,
+    "title": "TypeScript",
+    "description": "TypeScript — JavaScript asosida ishlab chiqilgan, lekin kuchli turdagi tekshirish tizimi bilan mustahkamlangan til. Katta loyihalarda barqarorlikni oshiradi.",
+    "image": "/image/dast1.jpg",
+    "video": "/videos/TypeScript.mkv"
+  }
+]
