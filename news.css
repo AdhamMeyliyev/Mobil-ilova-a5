@@ -1,4 +1,9 @@
 /* Sahifa strukturasi */
+.container{
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+
 body, html {
   height: 100%;
   margin: 0;
